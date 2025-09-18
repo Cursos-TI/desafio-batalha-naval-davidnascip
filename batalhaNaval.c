@@ -3,7 +3,7 @@
 int Tabuleiro[10][10];
 
 int main() {
-    int Tabuleiro[10][10];
+    
 
     printf("  TABULEIRO BATALHA NAVAL\n");
     printf("  A\t B\t C\t D\t E\t F\t G\t H\t I\t J\n");
